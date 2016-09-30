@@ -1,0 +1,16 @@
+{
+  "name": "osmtogeojson-server",
+  "version": "0.1.0",
+  "description": "A basic server implementation of the osmtogeojson project (https://github.com/tyrasd/osmtogeojson)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neal Feierabend",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "osmtogeojson": "^2.2.12"
+  }
+}
